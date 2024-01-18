@@ -5,12 +5,12 @@
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
 
-  <filter>
+ <!-- <filter>
     <filter-name>MyFirstFilterName</filter-name>
     <filter-class>Filter.MyFirstFilter</filter-class>
-  </filter>
+  </filter>-->
 
-  <filter-mapping>
+  <!--<filter-mapping>
     <filter-name>MyFirstFilterName</filter-name>
     <servlet-name>MyFirstServletName</servlet-name>
   </filter-mapping>
@@ -19,10 +19,10 @@
   </listener>
   <listener>
     <listener-class>Listener.ListenerRequestTms</listener-class>
-  </listener>
+  </listener>-->
 
 
-  <servlet>
+ <!-- <servlet>
     <servlet-name>MyFirstServletName</servlet-name>
     <servlet-class>Filter.Servlet.MainFirstServlet</servlet-class>
   </servlet>
@@ -30,6 +30,6 @@
   <servlet-mapping>
     <servlet-name>MyFirstServletName</servlet-name>
     <url-pattern>/my-first-servlet/*</url-pattern>
-  </servlet-mapping>
+  </servlet-mapping>-->
 
 </web-app>
