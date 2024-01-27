@@ -6,7 +6,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
 import java.io.IOException;
-import java.io.PrintWriter;
+//import java.io.PrintWriter;
 
 public class MainFirstServlet extends HttpServlet {
     //1. Отработает при создании сервлет (при первом обращении)
@@ -30,26 +30,26 @@ public class MainFirstServlet extends HttpServlet {
     }
 
     @Override
-    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException{
+    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 
-        getServletContext().getRequestDispatcher("/pages/page-answer-from-servlet.html").forward(req,resp);
+        getServletContext().getRequestDispatcher("/pages/page-answer-from-servlet.html").forward(req, resp);
         resp.getWriter().println("answer from servlet ");
 
 
 
-       /* resp.setContentType("text/html");
+      /* resp.setContentType("text/html");
 
-*//*            //достать параметры из пути
-            String nameFromURL = req.getParameter("name");*//*
+           //достать параметры из пути
+            String nameFromURL = req.getParameter("name");
 
         String nameFromURL = req.getRequestURI();
 
         PrintWriter writer = resp.getWriter();
         writer.println("Hello " + nameFromURL);
-        writer.close();*/
+        writer.close();
+    }*/
+
+        //TODO: scope, как возвращать HTML, Filter, Listener, как загружать на сервер файлы, HTML, CSS
     }
-
-    //TODO: scope, как возвращать HTML, Filter, Listener, как загружать на сервер файлы, HTML, CSS
-
 
 }

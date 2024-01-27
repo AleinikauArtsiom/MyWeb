@@ -10,8 +10,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cb183b8-6cb3-430d-abd8-8d9dd4f5e6ff" name="Changes" comment="Lessons26">
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Filter/Servlet/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Filter/Servlet/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Filter/Servlet/CookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/Index1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/Bootstrap/Boooot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/Bootstrap/Boot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/HeroBoot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/HeroBootCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/balance-page.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Filter/Servlet/MainFirstServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Filter/Servlet/MainFirstServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/Hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/Hero.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/TMS.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/TMS.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TMS/WEB-INF/classes/Filter/Servlet/MainFirstServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TMS/WEB-INF/classes/Filter/Servlet/MainFirstServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TMS/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/TMS/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TMS/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TMS/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/TMS/pages/Hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/TMS/pages/Hero.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Filter/Servlet/MainFirstServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Filter/Servlet/MainFirstServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +41,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
@@ -44,17 +67,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/IdeaProjects/MyWeb/src/main/webapp&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Shelf.Project.Settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/MyWeb",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\MyWeb\src\main\webapp" />
@@ -151,6 +179,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\admin\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2cb183b8-6cb3-430d-abd8-8d9dd4f5e6ff" name="Changes" comment="" />
@@ -159,7 +190,9 @@
       <option name="presentableId" value="Default" />
       <updated>1705576677079</updated>
       <workItem from="1705576678461" duration="1942000" />
-      <workItem from="1705578644232" duration="397000" />
+      <workItem from="1705578644232" duration="13312000" />
+      <workItem from="1706119741311" duration="39000" />
+      <workItem from="1706353477435" duration="13103000" />
     </task>
     <task id="LOCAL-00001" summary="Lessons26">
       <created>1705577443267</created>
@@ -189,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705578752894</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Lessons26">
+      <created>1705579045591</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705579045591</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

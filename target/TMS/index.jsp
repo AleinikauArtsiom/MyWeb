@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+This is your cookie : ${cookie.username.value}
+This is your header : ${header["User-Agent"]}
 </body>
 </html>
