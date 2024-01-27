@@ -9,29 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cb183b8-6cb3-430d-abd8-8d9dd4f5e6ff" name="Changes" comment="Lessons26">
-      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Filter/Servlet/Balance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Filter/Servlet/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Filter/Servlet/CookieServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/Index1.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/Bootstrap/Boooot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/Bootstrap/Boot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/HeroBoot.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/HeroBootCSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pages/balance-page.jsp" afterDir="false" />
+    <list default="true" id="2cb183b8-6cb3-430d-abd8-8d9dd4f5e6ff" name="Changes" comment="Lessons28">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Filter/Servlet/MainFirstServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Filter/Servlet/MainFirstServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/pages/Hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/pages/Hero.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TMS.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/TMS.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TMS/WEB-INF/classes/Filter/Servlet/MainFirstServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/TMS/WEB-INF/classes/Filter/Servlet/MainFirstServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TMS/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/TMS/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TMS/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/TMS/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/TMS/pages/Hero.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/TMS/pages/Hero.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Filter/Servlet/MainFirstServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Filter/Servlet/MainFirstServlet.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +59,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -192,7 +171,8 @@
       <workItem from="1705576678461" duration="1942000" />
       <workItem from="1705578644232" duration="13312000" />
       <workItem from="1706119741311" duration="39000" />
-      <workItem from="1706353477435" duration="13103000" />
+      <workItem from="1706353477435" duration="13134000" />
+      <workItem from="1706374298134" duration="78000" />
     </task>
     <task id="LOCAL-00001" summary="Lessons26">
       <created>1705577443267</created>
@@ -229,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705579045591</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Lessons28">
+      <created>1706374232707</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706374232707</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +234,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/MyWeb" />
+    </ignored-roots>
     <MESSAGE value="Lessons26" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lessons26" />
+    <MESSAGE value="Lessons28" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lessons28" />
   </component>
 </project>
